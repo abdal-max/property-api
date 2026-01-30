@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "title": "شقة فاخرة في حي النرجس",
+    "type": "apartment",
+    "price": 850000,
+    "location": "الرياض، حي النرجس",
+    "area": 180,
+    "rooms": 3,
+    "bathrooms": 2,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "isAvailable": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": "2",
+    "title": "فيلا مستقلة مع حديقة",
+    "type": "villa",
+    "price": 2500000,
+    "location": "جدة، حي الشاطئ",
+    "area": 450,
+    "rooms": 5,
+    "bathrooms": 4,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "isAvailable": true,
+    "isSpecialOffer": true
+  },
+  {
+    "id": "3",
+    "title": "شقة عصرية بإطلالة بحرية",
+    "type": "apartment",
+    "price": 1200000,
+    "location": "الدمام، الواجهة البحرية",
+    "area": 200,
+    "rooms": 4,
+    "bathrooms": 3,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "isAvailable": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": "4",
+    "title": "فيلا دوبلكس فاخرة",
+    "type": "villa",
+    "price": 3200000,
+    "location": "الرياض، حي الملقا",
+    "area": 600,
+    "rooms": 6,
+    "bathrooms": 5,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "isAvailable": true,
+    "isSpecialOffer": true
+  },
+  {
+    "id": "5",
+    "title": "شقة استوديو مفروشة",
+    "type": "apartment",
+    "price": 450000,
+    "location": "الخبر، حي العليا",
+    "area": 80,
+    "rooms": 1,
+    "bathrooms": 1,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "isAvailable": true,
+    "isSpecialOffer": false
+  },
+  {
+    "id": "1769721896194",
+    "title": "ك",
+    "type": "شقة",
+    "price": 55,
+    "area": 455,
+    "rooms": 78,
+    "bathrooms": 7,
+    "location": "الرياض",
+    "status": "محجوز",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop"
+  }
+]
